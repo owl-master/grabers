@@ -81,7 +81,7 @@ def get_data(n,main_url):
     return items
 
 def format_message(data):
-    return data['title']+'Price: '+str(data['price'])+' ... '+'<a href="'+data['url']+'">'+data['_id']+'</a>'
+    return data['title']+'Price: '+str(data['price'])+' .../ '+'<a href="'+data['url']+'">'+data['_id']+'</a>'
 
     
 for i in range(1,5):
