@@ -68,7 +68,6 @@ pyTelegramBotAPI==3.5.1
 python-dateutil==2.6.1
 python-mimeparse==1.6.0
 pytz==2017.3
-pywin32==222
 pyzmq==16.0.3
 qtconsole==4.3.1
 requests==2.18.4
