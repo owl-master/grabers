@@ -10,7 +10,7 @@ cycler==0.10.0
 Cython==0.27.3
 decorator==4.1.2
 dj-database-url==0.4.2
-Django==1.11.7
+Django==1.11.28
 django-celery-beat==1.1.0
 django-celery-results==1.0.1
 django-extensions==1.9.9
